@@ -144,11 +144,11 @@ Copy the IP Address and paste into the browser.
 
 ![image alt](Capture27.PNG)
 
-#### *The Traffic is currently directed to 2nd VM
+#### *The Traffic is currently directed to 2nd VM*
 
 ![image alt](Capture28.PNG)
 
-Shut down the 2nd VM to verify the lody balancer redirects us to 1st VM
+Shut down the 2nd VM to verify the load balancer redirects us to 1st VM
 
 ![image alt](Capture29.PNG)
 
